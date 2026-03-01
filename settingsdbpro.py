@@ -1,17 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-============================================================================
-PROFESSIONAL DATABASE MANAGEMENT SYSTEM
-Version: 4.0 (Ultimate Edition - Fully Working)
-============================================================================
-MySQL va PostgreSQL ni to'liq boshqarish uchun professional vosita
-Muallif: Database Administrator
-Litsenziya: MIT
-============================================================================
-"""
-
 import os
 import sys
 import subprocess

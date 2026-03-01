@@ -4,7 +4,8 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.sql import func
 import datetime
-
+# Fix:
+from sqlalchemy import Index  # Qo'shish kerak
 # PostgreSQL uchun base class
 Base = declarative_base()
 
